@@ -1,0 +1,33 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Quiz</string>
+    <string name="headline_coffee_quiz">How much do you know about coffee?</string>
+    <string name="username_hint">Name</string>
+    <!--Question 1 -->
+    <string name="question_1">1. Where was coffee first discovered?</string>
+    <string name="question_1a">Ethiopia</string>
+    <string name="question_1b">Brazil</string>
+    <string name="question_1c">Columbia</string>
+    <string name="question_1d">Ghana</string>
+    <!--Question 2 -->
+    <string name="question_2">2. Which country drinks the most coffee per capita?</string>
+    <string name="question_2a">Norway</string>
+    <string name="question_2b">U.S.A</string>
+    <string name="question_2c">Finland</string>
+    <string name="question_2d">Italy</string>
+    <!--Question 3 -->
+    <string name="question_3">3. Typically, we drink coffee from two varieties of beans - Arabica and ____________?  </string>
+    <string name="answer_input">Type in the correct answer </string>
+    <!--Question 4 -->
+    <string name="question_4">4. What\'s a Cappuccino made out of?</string>
+    <string name="question_4a">Espresso</string>
+    <string name="question_4b">Milk</string>
+    <string name="question_4c">Water</string>
+    <string name="question_4d">Milk Foam</string>
+    <string name="question_4e">Whipped Cream</string>
+
+    <!--Submit Answers button -->
+    <string name="submit_button">Submit Answers</string>
+    <string name="your_score_is"> Your score is:  </string>
+    <string name="out_of_4">" correct out of 4 questions"</string>
+
+</resources>

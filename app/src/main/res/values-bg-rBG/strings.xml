@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Quiz</string>
+    <string name="headline_coffee_quiz">Колко знаете за кафето?</string>
+    <string name="username_hint">Име</string>
+    <string name="question_1">1. Къде първо е открито кафето?</string>
+    <string name="question_1a">Етиопия</string>
+    <string name="question_1b">Бразилия</string>
+    <string name="question_1c">Колумбия</string>
+    <string name="question_1d">Гана</string>
+    <string name="question_2">2. Коя страна пие най-много кафе на глава от населението?</string>
+    <string name="question_2a">Норвегия</string>
+    <string name="question_2b">САЩ</string>
+    <string name="question_2c">Финландия</string>
+    <string name="question_2d">Италия</string>
+    <string name="question_3">3. Обикновено пием кафе от два вида зърна - Арабика и ________?</string>
+    <string name="answer_input">Попълнете верния отговор</string>
+    <string name="question_4">4. От какво се прави Капучиното?</string>
+    <string name="question_4a">Еспресо</string>
+    <string name="question_4b">Мляко</string>
+    <string name="question_4c">Вода</string>
+    <string name="question_4d">Млечна Пяна</string>
+    <string name="question_4e">Разбита Сметана</string>
+    <string name="submit_button">Предай Отговорите</string>
+    <string name="your_score_is">Твоят резултат е:</string>
+    <string name="out_of_4">"верни от 4 въпроса "</string>
+</resources>
