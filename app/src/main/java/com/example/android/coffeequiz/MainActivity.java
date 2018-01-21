@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 /*        ActionBar actionBar = getSupportActionBar();
         actionBar.hide()*/
-        ;
+        
         setContentView(R.layout.activity_main);
 
         question1 = findViewById(R.id.question_1_group);
@@ -42,7 +42,16 @@ public class MainActivity extends AppCompatActivity {
         //checks if the user answered correct the third question
         EditText inputCoffeeType = (EditText) findViewById(R.id.input_coffee_type);
         String inputCoffee = inputCoffeeType.getText().toString();
-        if (inputCoffee.equals("Robusta")) {
+        if (inputCoffee.equals("Robusta")){
+            score = score + 1;
+        }
+        if (inputCoffee.equals("robusta")){
+            score = score + 1;
+        }
+        if (inputCoffee.equals("Робуста")){
+            score = score + 1;
+        }
+        if (inputCoffee.equals("робуста")){
             score = score + 1;
         }
 
