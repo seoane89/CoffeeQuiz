@@ -20,8 +20,15 @@
     <string name="question_4b">Мляко</string>
     <string name="question_4c">Вода</string>
     <string name="question_4d">Млечна Пяна</string>
-    <string name="question_4e">Разбита Сметана</string>
+    <string name="question_4e">Разбита Сметанаа</string>
     <string name="submit_button">Предай Отговорите</string>
     <string name="your_score_is">Твоят резултат е:</string>
-    <string name="out_of_4">"верни от 4 въпроса "</string>
+    <string name="out_of_4">" от 4 въпроса "</string>
+    <string name="congrats_message">Поздравления, ти си истински познавач на кафето!</string>
+    <string name="share_results_button_text">Сподели Резултатите</string>
+    <string name="do_better_message">Можеш да се справиш по-добре!</string>
+    <string name="answered_correct">"Отговорил си правилно на "</string>
+    <string name="try_again_button_text">Опитай отново</string>
+    <string name="share_subject">Тук са моите резултати от Въпросника за Кафето</string>
+    <string name="results_message_body">Хей, това са моите резултати от Въпросника за Кафето:</string>
 </resources>
