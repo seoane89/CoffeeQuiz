@@ -28,6 +28,14 @@
     <!--Submit Answers button -->
     <string name="submit_button">Submit Answers</string>
     <string name="your_score_is"> Your score is:  </string>
-    <string name="out_of_4">" correct out of 4 questions"</string>
+    <string name="out_of_4">" out of 4 questions"</string>
+    <string name="congrats_message">Congratulations, you are a true coffee connoisseur!</string>
+    <string name="do_better_message">You can do better, I\'m sure!</string>
+    <string name="answered_correct">"You answered correctly "</string>
+    <string name="try_again_button_text">Try again</string>
+    <string name="share_results_button_text">Share results</string>
+    <string name="share_subject">Here are my Coffee Quiz Results</string>
+    <string name="results_message_body">Hey check out those are my results in the Coffee Quiz:</string>
+
 
 </resources>

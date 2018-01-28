@@ -226,8 +226,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_margin="@dimen/layout_margin_vertical"
-            android:onClick="submitResults"
             android:text="@string/submit_button"
+            android:onClick="submitResults"
             android:textAlignment="center" />
 
 
